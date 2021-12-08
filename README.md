@@ -1,10 +1,8 @@
-_Taller 4º ESO + Empresa_
-
 # Taller
 
 # ¡¡Crea tu videojuego con Stencyl!!
 
-## 1Bienvenid@ al taller 
+## 1Bienvenid@ al taller 
 
 En este taller realizaremos una pequeña introducción a _Stencyl_[1] . _Stencyl_ es una aplicación que te permite crear videojuegos sin necesidad de tener conocimientos avanzados de programación. De hecho, con _Stencyl_ los videojuegos se programan utilizando bloques de control predefinidos. Estos bloques permiten realizar gran cantidad de acciones, tal y como si estuviésemos utilizando un lenguaje de programación tradicional (pero sin necesidad de tener esos conocimientos).
 
